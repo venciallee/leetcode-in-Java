@@ -1,6 +1,8 @@
 leetcode-in-Java
 =====
 
+This is leetcode solution in Java, Which is 
+
 ## LinkedList
 
 | # | Title | Solution | Difficulty | Source Code |
@@ -13,3 +15,12 @@ leetcode-in-Java
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | connect tail and head & cut the right k places node  | Medium | [RotateList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/RotateList.java) |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | find duplicate node and store duplicate state, update next pointer | Medium | [RemoveDuplicatesFromSortedListII.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/RemoveDuplicatesFromSortedListII.java) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | find duplicate node and update pointer next to next.next | Medium | [RemoveDuplicatesFromSortedList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/RemoveDuplicatesFromSortedList.java) |
+
+
+## Design
+
+| # | Title | Solution | Difficulty | Source Code |
+|---| ----- | -------- | ---------- | ----------- |
+| 146 | [LRU Cache](https://leetcode.com/problems/binary-search-tree-iterator/) |  | Medium | [LRUCache.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/LRUCache.java) |
+| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) |  stack + preorder traversal | Medium | [BinarySearchTreeIterator.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/BinarySearchTreeIterator.java) |
+
