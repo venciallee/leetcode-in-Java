@@ -1,5 +1,8 @@
 package com.bytecode.leetcode.design;
 
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * 146. LRU Cache
  * <p>
@@ -35,5 +38,91 @@ package com.bytecode.leetcode.design;
  */
 public class LRUCache {
 
-    
+
+    private Map<Integer, Node> mCache;
+    private int mCapacity;
+    private Node head, tail;
+    private int count;
+
+    public LRUCache(int capacity) {
+        mCache = new HashMap<>(capacity);
+        mCapacity = capacity;
+        head = new Node(0, 0);
+        tail = new Node(0, 0);
+        head.next = tail;
+        tail.prev = head;
+        head.prev = null;
+        tail.next = null;
+        count = 0;
+    }
+
+    /**
+     * 1. Get Node from HashMap by key
+     * 2. if exists, update the node order
+     *
+     * @param key key
+     * @return int
+     */
+    public int get(int key) {
+        if (mCache.get(key) != null) {
+            Node node = mCache.get(key);
+            deleteNode(node);
+            addNode(node);
+            return node.value;
+        }
+        return -1;
+    }
+
+    /**
+     * 1. if key exists in map, update the node's value, then update the node order
+     * 2. else, if count is bigger than capacity, remove last node and add the new one to the head,
+     * or just add new node to the head.
+     *
+     * @param key   key
+     * @param value value
+     */
+    public void put(int key, int value) {
+        if (mCache.get(key) != null) {
+            Node node = mCache.get(key);
+            node.value = value;
+            deleteNode(node);
+            addNode(node);
+        } else {
+            Node node = new Node(key, value);
+            mCache.put(key, node);
+            if (count >= mCapacity) {
+                mCache.remove(tail.prev.key);
+                deleteNode(tail.prev);
+                addNode(node);
+            } else {
+                addNode(node);
+                count++;
+            }
+        }
+    }
+
+    private void addNode(Node node) {
+        node.next = head.next;
+        node.next.prev = node;
+        node.prev = head;
+        head.next = node;
+    }
+
+    private void deleteNode(Node node) {
+        node.prev.next = node.next;
+        node.next.prev = node.prev;
+    }
+
+    class Node {
+        int key;
+        int value;
+        Node prev;
+        Node next;
+
+        Node(int key, int value) {
+            this.key = key;
+            this.value = value;
+        }
+    }
+
 }
