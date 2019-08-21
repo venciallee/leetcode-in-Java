@@ -21,6 +21,6 @@ This is leetcode solution in Java with eplaination and generalization.
 
 | # | Title | Solution | Difficulty | Source Code |
 |---| ----- | -------- | ---------- | ----------- |
-| 146 | [LRU Cache](https://leetcode.com/problems/binary-search-tree-iterator/) |  | Medium | [LRUCache.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/LRUCache.java) |
+| 146 | [LRU Cache](https://leetcode.com/problems/binary-search-tree-iterator/) | HashMap + Double LinkedNode  | Medium | [LRUCache.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/LRUCache.java) |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) |  stack + preorder traversal | Medium | [BinarySearchTreeIterator.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/BinarySearchTreeIterator.java) |
 
