@@ -1,7 +1,7 @@
 leetcode-in-Java
 =====
 
-This is leetcode solution in Java, Which is 
+This is leetcode solution in Java with eplaination and generalization.
 
 ## LinkedList
 
