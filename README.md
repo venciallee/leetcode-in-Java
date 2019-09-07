@@ -15,6 +15,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | connect tail and head & cut the right k places node  | Medium | [RotateList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/RotateList.java) |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | find duplicate node and store duplicate state, update next pointer | Medium | [RemoveDuplicatesFromSortedListII.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/RemoveDuplicatesFromSortedListII.java) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | find duplicate node and update pointer next to next.next | Medium | [RemoveDuplicatesFromSortedList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/RemoveDuplicatesFromSortedList.java) |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/) | Two Pointer | Medium | [PartitionList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/PartitionList.java) |
 
 
 ## Design
