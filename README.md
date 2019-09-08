@@ -18,7 +18,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | Two Pointer | Medium | [PartitionList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/PartitionList.java) |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | like Insertion Sort | Medium | [ReverseLinkedListII.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/ReverseLinkedListII.java) |
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | pre-order traversal | Medium | [ConvertSortedListtoBST.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/ConvertSortedListtoBST.java) |
-
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | recursive + hashmap | Medium | [CopyListwithRandomPointer.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/CopyListwithRandomPointer.java) |
 
 ## Design
 
