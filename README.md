@@ -20,6 +20,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | pre-order traversal | Medium | [ConvertSortedListtoBST.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/ConvertSortedListtoBST.java) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | recursive + hashmap | Medium | [CopyListwithRandomPointer.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/CopyListwithRandomPointer.java) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | two pointer | Easy | [LinkedListCycle.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/LinkedListCycle.java) |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | hashset || two pointer | Medium | [LinkedListCycleII.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/LinkedListCycleII.java) |
 
 ## Design
 

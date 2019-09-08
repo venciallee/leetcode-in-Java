@@ -36,8 +36,8 @@ package com.bytecode.leetcode.linkedlist;
 public class LinkedListCycle {
 
     /**
-     * 1. 是用双指针遍历, 当slow指针和fast指针相遇, 即循环链表返回true
-     * 2. 当fast指针或者fast.next为空, 即非循环链表, 返回false
+     * 1. 是用双指针遍历, 当slow指针和fast指针相遇, 即环形链表返回true
+     * 2. 当fast指针或者fast.next为空, 即非环形链表, 返回false
      * <p>
      * 1. Use Two Pointer, if slow match fast, then return true
      * 2. if fast or fast.next is null, then return false.
