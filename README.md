@@ -25,6 +25,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | insertion algorithm | Medium | [InsertionSortList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/InsertionSortList.java) |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | two pointer + merge sort algorithm | Medium | [SortList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/SortList.java) |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | iteration | Medium | [IntersectionofTwoLinkedLists.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/IntersectionofTwoLinkedLists.java) |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | slow pointer + connect | Easy | [RemoveLinkedListElements.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/RemoveLinkedListElements.java) |
 
 ## Design
 
