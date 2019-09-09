@@ -49,6 +49,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | recursive or bfs by queue | Medium | [BinaryTreeLevelOrderTraversal.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/BinaryTreeLevelOrderTraversal.java) |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | recursive or bfs by queue | Medium | [BinaryTreeZigzagLevelOrderTraversal.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/BinaryTreeZigzagLevelOrderTraversal.java) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | recursive | Easy | [MaximumDepthofBinaryTree.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/MaximumDepthofBinaryTree.java) |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | hashmap + recursive | Medium | [ConstructBinaryTreefromPreorderandInorderTraversal.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/ConstructBinaryTreefromPreorderandInorderTraversal.java) |
 
 ## Array
 
