@@ -22,6 +22,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | two pointer | Easy | [LinkedListCycle.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/LinkedListCycle.java) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | hashset | two pointer | Medium | [LinkedListCycleII.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/LinkedListCycleII.java) |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | reverse + connect | Medium | [ReorderList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/ReorderList.java) |
+| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | insertion algorithm | Medium | [InsertionSortList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/InsertionSortList.java) |
 
 ## Design
 
