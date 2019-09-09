@@ -57,6 +57,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | recursive | Easy | [MinimumDepthofBinaryTree.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/MinimumDepthofBinaryTree.java) |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | recursive | Easy | [PathSum.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/PathSum.java) |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | recursive | Medium | [PathSumII.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/PathSumII.java) |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | stack or recursive | Medium | [FlattenBinaryTreetoLinkedList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/FlattenBinaryTreetoLinkedList.java) |
 
 ## Array
 
