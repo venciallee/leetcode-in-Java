@@ -27,6 +27,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | iteration | Medium | [IntersectionofTwoLinkedLists.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/IntersectionofTwoLinkedLists.java) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | slow pointer + connect | Easy | [RemoveLinkedListElements.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/RemoveLinkedListElements.java) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |  | Easy | [ReverseLinkedList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/ReverseLinkedList.java) |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | reverse + equal | Easy | [PalindromeLinkedList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/PalindromeLinkedList.java) |
 
 ## Design
 
