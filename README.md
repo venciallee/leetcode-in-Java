@@ -53,6 +53,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | hashmap + recursive | Medium | [ConstructBinaryTreefromInorderandPostorderTraversal.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/ConstructBinaryTreefromInorderandPostorderTraversal.java) |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | recursive | Easy | [BinaryTreeLevelOrderTraversalII.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/BinaryTreeLevelOrderTraversalII.java) |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | preorder recursive | Easy | [ConvertSortedArraytoBinarySearchTree.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/ConvertSortedArraytoBinarySearchTree.java) |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | recursive | Easy | [BalancedBinaryTree.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/BalancedBinaryTree.java) |
 
 ## Array
 
