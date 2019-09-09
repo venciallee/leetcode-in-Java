@@ -31,6 +31,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | connect next.next pointer | Medium | [OddEvenLinkedList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/OddEvenLinkedList.java) |
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) |  | Medium | [FlattenMultilevelDoublyLinkedList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/FlattenMultilevelDoublyLinkedList.java) |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | reverse | Medium | [AddTwoNumbersII.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/AddTwoNumbersII.java) |
+| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | | Medium | [SplitLinkedListinParts.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/SplitLinkedListinParts.java) |
 
 ## Design
 
