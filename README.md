@@ -24,6 +24,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | reverse + connect | Medium | [ReorderList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/ReorderList.java) |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | insertion algorithm | Medium | [InsertionSortList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/InsertionSortList.java) |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | two pointer + merge sort algorithm | Medium | [SortList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/SortList.java) |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | two pointer + merge sort algorithm | Medium | [IntersectionofTwoLinkedLists.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/IntersectionofTwoLinkedLists.java) |
 
 ## Design
 
