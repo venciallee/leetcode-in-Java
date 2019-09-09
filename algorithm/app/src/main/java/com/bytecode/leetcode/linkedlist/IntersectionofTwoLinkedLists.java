@@ -44,6 +44,17 @@ package com.bytecode.leetcode.linkedlist;
  */
 public class IntersectionofTwoLinkedLists {
 
+    /**
+     * 1. 如果相交且链表A, B长度都相同, 那么直接遍历即能找到相交结点
+     * 2. 如果链表A, B长度不相等, 则遍历到空后交换遍历链表, 则遍历的长度也相等, 即可找到相交结点
+     * <p>
+     * 1. if linked list A's length equal linked list B's length, intersection node can easy be found by iteration
+     * 2. if not, iterate linked list A + linked list B and iterate linked list B + linked list A
+     *
+     * @param headA headA
+     * @param headB headB
+     * @return ListNode
+     */
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         if (headA == null || headB == null) return null;
         ListNode curA = headA;
