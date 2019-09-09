@@ -36,6 +36,30 @@ This is leetcode solution in Java with eplaination and generalization.
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | two pointer | Easy | [MiddleoftheLinkedList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/MiddleoftheLinkedList.java) |
 | 1029 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | stack | Medium | [NextGreaterNodeInLinkedList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/NextGreaterNodeInLinkedList.java) |
 
+## Tree
+
+| # | Title | Solution | Difficulty | Source Code |
+|---| ----- | -------- | ---------- | ----------- |
+| | | | | |
+
+## Array
+
+| # | Title | Solution | Difficulty | Source Code |
+|---| ----- | -------- | ---------- | ----------- |
+| | | | | |
+
+## String
+
+| # | Title | Solution | Difficulty | Source Code |
+|---| ----- | -------- | ---------- | ----------- |
+| | | | | |
+
+## DP
+
+| # | Title | Solution | Difficulty | Source Code |
+|---| ----- | -------- | ---------- | ----------- |
+| | | | | |
+ 
 ## Design
 
 | # | Title | Solution | Difficulty | Source Code |

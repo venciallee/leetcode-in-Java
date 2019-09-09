@@ -1,4 +1,4 @@
-package com.bytecode.leetcode.binarytree;
+package com.bytecode.leetcode.tree;
 
 /**
  * Definition for a binary tree node.
