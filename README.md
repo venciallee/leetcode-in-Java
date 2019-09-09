@@ -43,6 +43,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-search-tree-iterator/) | stack or recursive  | Medium | [BinaryTreeInorderTraversal.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/BinaryTreeInorderTraversal.java) |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | recursive  | Medium | [UniqueBinarySearchTreesII.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/UniqueBinarySearchTreesII.java) |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | dp  | Medium | [UniqueBinarySearchTrees.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/UniqueBinarySearchTrees.java) |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | recursive or stack | Medium | [ValidateBinarySearchTree.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/ValidateBinarySearchTree.java) |
 
 ## Array
 
