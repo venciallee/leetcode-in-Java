@@ -46,6 +46,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | recursive or stack | Medium | [ValidateBinarySearchTree.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/ValidateBinarySearchTree.java) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | recursive | Easy | [SameTree.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/SameTree.java) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | recursive | Easy | [SymmetricTree.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/SymmetricTree.java) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | recursive or bfs by queue | Medium | [BinaryTreeLevelOrderTraversal.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/BinaryTreeLevelOrderTraversal.java) |
 
 ## Array
 
