@@ -34,6 +34,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | | Medium | [SplitLinkedListinParts.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/SplitLinkedListinParts.java) |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | | Medium | [LinkedListComponents.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/LinkedListComponents.java) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | two pointer | Easy | [MiddleoftheLinkedList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/MiddleoftheLinkedList.java) |
+| 1029 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | stack | Medium | [NextGreaterNodeInLinkedList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/NextGreaterNodeInLinkedList.java) |
 
 ## Design
 
