@@ -1,6 +1,6 @@
 package com.bytecode.leetcode.design;
 
-import com.bytecode.leetcode.binarytree.TreeNode;
+import com.bytecode.leetcode.tree.TreeNode;
 
 import java.util.Stack;
 

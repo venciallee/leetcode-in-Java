@@ -20,7 +20,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | pre-order traversal | Medium | [ConvertSortedListtoBST.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/ConvertSortedListtoBST.java) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | recursive + hashmap | Medium | [CopyListwithRandomPointer.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/CopyListwithRandomPointer.java) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | two pointer | Easy | [LinkedListCycle.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/LinkedListCycle.java) |
-| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | hashset | two pointer | Medium | [LinkedListCycleII.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/LinkedListCycleII.java) |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | hashset or two pointer | Medium | [LinkedListCycleII.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/LinkedListCycleII.java) |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | reverse + connect | Medium | [ReorderList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/ReorderList.java) |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | insertion algorithm | Medium | [InsertionSortList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/InsertionSortList.java) |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | two pointer + merge sort algorithm | Medium | [SortList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/SortList.java) |
@@ -36,6 +36,30 @@ This is leetcode solution in Java with eplaination and generalization.
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | two pointer | Easy | [MiddleoftheLinkedList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/MiddleoftheLinkedList.java) |
 | 1029 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | stack | Medium | [NextGreaterNodeInLinkedList.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/linkedlist/NextGreaterNodeInLinkedList.java) |
 
+## Tree
+
+| # | Title | Solution | Difficulty | Source Code |
+|---| ----- | -------- | ---------- | ----------- |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-search-tree-iterator/) | stack or recursive  | Medium | [BinaryTreeInorderTraversal.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/BinaryTreeInorderTraversal.java) |
+
+## Array
+
+| # | Title | Solution | Difficulty | Source Code |
+|---| ----- | -------- | ---------- | ----------- |
+| | | | | |
+
+## String
+
+| # | Title | Solution | Difficulty | Source Code |
+|---| ----- | -------- | ---------- | ----------- |
+| | | | | |
+
+## DP
+
+| # | Title | Solution | Difficulty | Source Code |
+|---| ----- | -------- | ---------- | ----------- |
+| | | | | |
+ 
 ## Design
 
 | # | Title | Solution | Difficulty | Source Code |

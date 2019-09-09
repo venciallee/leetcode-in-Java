@@ -1,6 +1,6 @@
 package com.bytecode.leetcode.linkedlist;
 
-import com.bytecode.leetcode.binarytree.TreeNode;
+import com.bytecode.leetcode.tree.TreeNode;
 
 /**
  * 109. Convert Sorted List to Binary Search Tree
