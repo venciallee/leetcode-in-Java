@@ -63,6 +63,9 @@ This is leetcode solution in Java with eplaination and generalization.
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | stack or recursive | Medium | [SumRoottoLeafNumbers.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/SumRoottoLeafNumbers.java) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | stack or recursive | Medium | [BinaryTreePreorderTraversal.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/BinaryTreePreorderTraversal.java) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | queue or recursive | Medium | [BinaryTreeRightSideView.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/BinaryTreeRightSideView.java) |
+| 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | stack or recursive | Medium | [CountCompleteTreeNodes.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/CountCompleteTreeNodes.java) |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | stack or recursive | Easy | [InvertBinaryTree.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/InvertBinaryTree.java) |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | stack or recursive | Medium | [KthSmallestElementinaBST.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/KthSmallestElementinaBST.java) |
 
 ## Array
 
@@ -80,7 +83,9 @@ This is leetcode solution in Java with eplaination and generalization.
 
 | # | Title | Solution | Difficulty | Source Code |
 |---| ----- | -------- | ---------- | ----------- |
-| | | | | |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | dp | Medium | [LongestPalindromicSubstring.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/dp/LongestPalindromicSubstring.java) |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | dp | Medium | [UniquePaths.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/dp/UniquePaths.java) |
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | dp | Medium | [UniquePathsII.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/dp/UniquePathsII.java) |
  
 ## Design
 
