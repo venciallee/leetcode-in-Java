@@ -83,7 +83,7 @@ This is leetcode solution in Java with eplaination and generalization.
 
 | # | Title | Solution | Difficulty | Source Code |
 |---| ----- | -------- | ---------- | ----------- |
-| | | | | |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | dp | Medium | [LongestPalindromicSubstring.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/dp/LongestPalindromicSubstring.java) |
  
 ## Design
 
