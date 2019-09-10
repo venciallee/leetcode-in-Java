@@ -61,6 +61,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | bfs by queue | Medium | [PopulatingNextRightPointersinEachNode.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/PopulatingNextRightPointersinEachNode.java) |
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | bfs by queue | Medium | [PopulatingNextRightPointersinEachNodeII.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/PopulatingNextRightPointersinEachNodeII.java) |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | stack or recursive | Medium | [SumRoottoLeafNumbers.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/SumRoottoLeafNumbers.java) |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | stack or recursive | Medium | [BinaryTreePreorderTraversal.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/BinaryTreePreorderTraversal.java) |
 
 ## Array
 
