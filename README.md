@@ -63,6 +63,7 @@ This is leetcode solution in Java with eplaination and generalization.
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | stack or recursive | Medium | [SumRoottoLeafNumbers.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/SumRoottoLeafNumbers.java) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | stack or recursive | Medium | [BinaryTreePreorderTraversal.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/BinaryTreePreorderTraversal.java) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | queue or recursive | Medium | [BinaryTreeRightSideView.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/BinaryTreeRightSideView.java) |
+| 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | stack or recursive | Medium | [CountCompleteTreeNodes.java](https://github.com/venciallee/leetcode-in-Java/blob/master/algorithm/app/src/main/java/com/bytecode/leetcode/tree/CountCompleteTreeNodes.java) |
 
 ## Array
 
